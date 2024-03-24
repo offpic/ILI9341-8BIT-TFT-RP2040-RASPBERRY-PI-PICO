@@ -1,4 +1,5 @@
 
+https://www.youtube.com/watch?v=9FQzMGb8AQg
 
 ![ili9341 8bit tft raspberry pi pico](https://github.com/offpic/ILI9341-8BIT-TFT-RP2040-RASPBERRY-PI-PICO/assets/31142397/4aa5bbfb-5555-4979-8389-d506b8f8825a)
 
